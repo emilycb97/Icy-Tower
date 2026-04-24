@@ -12,7 +12,7 @@ Edukacyjna gra platformowa 2D inspirowana klasycznym "Icy Tower", stworzona w C+
 * **Język:** C++ (Standard 20) 
 * **Biblioteki:** SDL2, SDL2_image 
 * **Narzędzie budowania:** CMake
-* * **Wymagania:** Konieczność lokalnej instalacji i podlinkowania `SDL2` oraz `SDL2_image`.
+* **Wymagania:** Konieczność lokalnej instalacji i podlinkowania `SDL2` oraz `SDL2_image`.
 
 *Data realizacji: Grudzień 2025*
 
@@ -31,6 +31,7 @@ An educational 2D platformer inspired by the classic "Icy Tower", built in C++ u
 ## Technologies 
 * **Language:** C++ (Standard 20)
 * **Libraries:** SDL2, SDL2_image 
-* **Build Tool:** CMake 
+* **Build Tool:** CMake
+* **Requirements:** Local installation and linking of `SDL2` and `SDL2_image` are mandatory.
 
 *Developed: December 2025*
